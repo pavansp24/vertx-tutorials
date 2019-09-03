@@ -23,7 +23,7 @@ public class ApiSimulartorVerticle extends AbstractVerticle {
 	Random random = new Random();
 	private ConfigRetriever retriever;
 	private String response;
-	private String apiName = System.getProperty("api","test");
+	private String apiName = System.getProperty("api","/test");
 
 	@Override
 	public void start(Future<Void> startFuture) throws Exception {
