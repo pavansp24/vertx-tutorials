@@ -3,7 +3,10 @@
   <groupId>com.api.simulator</groupId>
   <artifactId>api-simulator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
+    <properties>
+      <maven.compiler.source>1.8</maven.compiler.source>
+      <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
   <dependencies>
   	<dependency>
   		<groupId>io.vertx</groupId>
