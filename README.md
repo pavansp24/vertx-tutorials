@@ -1,7 +1,7 @@
 # vertx-tutorials
 Examples related to Vertx
 
-Api Simulator - Application is all about building a configurable https rest api that will help to mock a service.
+<b>Api Simulator</b> - Application is all about building a configurable https rest api that will help to mock a service.
 
 Run the verticle with proper jvm args requested, use the simulate api to submit the response expected to be returned by the simulated api.
 
