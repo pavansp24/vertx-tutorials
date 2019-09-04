@@ -2,7 +2,7 @@
 Examples related to Vertx
 <ul>
 <li><b><a href="https://github.com/pavansp24/vertx-tutorials/tree/master/api-simulator">Api Simulator</a></b></li>
-<li><b><a href="https://github.com/pavansp24/vertx-tutorials/tree/master/vertx-springboot">vertx-spring boot integration</a></b></li>
+<li><b><a href="https://github.com/pavansp24/vertx-tutorials/tree/master/vertx-springboot">Vertx-Spring Boot Integration</a></b></li>
 </ul>
 
 
