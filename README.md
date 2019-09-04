@@ -1,7 +1,7 @@
 # vertx-tutorials
 Examples related to Vertx
 <ul>
-<li><b>Api Simulator</b></li>
+<li><b><a href="https://github.com/pavansp24/vertx-tutorials/tree/master/api-simulator" Api Simulator/></b></li>
 <li><b>vertx-spring boot integration </b></li>
 </ul>
 
