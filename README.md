@@ -42,7 +42,7 @@ curl -X POST \
 <b>vertx-spring boot integration </b>- CRUD service using vertx and spring boot.
 
 - Used vertx capability for creating a rest solution
-- Used spring for dependency injection and data framework for hibernation orm operations
+- Used spring for dependency injection and data framework wrapped on top of hibernate for orm operations
 
 mvn clean install
 
